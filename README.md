@@ -1,5 +1,4 @@
 # Awesome Explainable Reinforcement Learning
-test_Peilang_Li
 
 [![arXiv](https://img.shields.io/badge/arXiv-2211.06665-b31b1b.svg)](https://arxiv.org/abs/2211.06665)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
